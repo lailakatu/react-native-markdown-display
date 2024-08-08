@@ -35,8 +35,8 @@
     "react-native-fit-image": "^1.5.5"
   },
   "peerDependencies": {
-    "react": ">=16.2.0",
-    "react-native": ">=0.50.4"
+    "react": "18.2.0",
+    "react-native": "0.73.4"
   },
   "devDependencies": {
     "@types/markdown-it": "^10.0.1",
